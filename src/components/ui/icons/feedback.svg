@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>9ED23536-6C33-44D8-841F-ADB119799600</title>
+    <defs>
+        <path d="M20,2 C21.1,2 22,2.9 22,4 L22,4 L22,16 C22,17.1 21.1,18 20,18 L20,18 L6,18 L2,22 L2.01,4 C2.01,2.9 2.9,2 4,2 L4,2 Z M20,4 L4.00999969,4.00111111 L4.00268426,17.1688886 L5.17157288,16 L20,16 L20,4 Z M14,11 L14,13 L6,13 L6,11 L14,11 Z M18,7 L18,9 L6,9 L6,7 L18,7 Z" id="path-1"></path>
+    </defs>
+    <g id="System-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="StickerSheet---System-Icons" transform="translate(-1298.000000, -1765.000000)">
+            <g id="Communication" transform="translate(150.000000, 1629.000000)">
+                <g id="Icons/System/feedback" transform="translate(1148.000000, 136.000000)">
+                    <polygon id="Bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#000000" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

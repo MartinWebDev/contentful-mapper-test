@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icons/System/bin">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M16 3.01635H20V4.96265H4V3.01635H8L9.14286 2H14.8571L16 3.01635ZM5 19.2857V6H19V19.2857C19 20.7786 17.65 22 16 22H8C6.35 22 5 20.7786 5 19.2857ZM17 8H7V19.2857C7 19.6269 7.4124 20 8 20H16C16.5876 20 17 19.6269 17 19.2857V8ZM11 10H9V18H11V10ZM13 10H15V18H13V10Z" fill="currentColor"/>
+<mask id="mask0_0_7497" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="4" y="2" width="16" height="20">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M16 3.01635H20V4.96265H4V3.01635H8L9.14286 2H14.8571L16 3.01635ZM5 19.2857V6H19V19.2857C19 20.7786 17.65 22 16 22H8C6.35 22 5 20.7786 5 19.2857ZM17 8H7V19.2857C7 19.6269 7.4124 20 8 20H16C16.5876 20 17 19.6269 17 19.2857V8ZM11 10H9V18H11V10ZM13 10H15V18H13V10Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_7497)">
+</g>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Field/Toggle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.8225,7.5 L3.5,10.1912393 L6.1775,7.5 L7,8.32852564 L3.5,11.8541667 L0,8.32852564 L0.8225,7.5 Z M0.8225,4.35416667 L0,3.52564103 L3.5,-1.86517468e-14 L7,3.52564103 L6.1775,4.35416667 L3.5,1.66292735 L0.8225,4.35416667 Z" id="path-1"></path>
+    </defs>
+    <g id="Field/Toggle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+        <g id="Icon" transform="translate(9.000000, 6.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

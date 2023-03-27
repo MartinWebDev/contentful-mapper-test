@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons/Chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18,0 C19.1,0 20,0.9 20,2 L20,14 C20,15.1 19.1,16 18,16 L4,16 L0,20 L0.01,2 C0.01,0.9 0.9,0 2,0 L18,0 Z M2.00268426,15.1688886 L3.17157288,14 L18,14 L18,2 L2.00999969,2.00111111 L2.00268426,15.1688886 Z M12,11 L4,11 L4,9 L12,9 L12,11 Z M16,7 L4,7 L4,5 L16,5 L16,7 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+        <g id="Icon" transform="translate(2.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

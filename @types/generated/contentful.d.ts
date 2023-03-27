@@ -161,12 +161,48 @@ export interface ICard extends Entry<ICardFields> {
   };
 }
 
+export interface INavigationFields {
+  /** Display Name */
+  displayName?: string | undefined;
+
+  /** URL */
+  url?: string | undefined;
+
+  /** Sub Navigation */
+  subNavigation?: INavigation[] | undefined;
+
+  /** IconName */
+  iconName?: string | undefined;
+}
+
+/** Recursive Navigation Items. Start with a root item, then add children to it, add children to those, etc. Your root item can then be linked in compose to a page. */
+
+export interface INavigation extends Entry<INavigationFields> {
+  sys: {
+    id: string;
+    type: string;
+    createdAt: string;
+    updatedAt: string;
+    locale: string;
+    contentType: {
+      sys: {
+        id: "navigation";
+        linkType: "ContentType";
+        type: "Link";
+      };
+    };
+  };
+}
+
 export interface IPageFields {
   /** Page Title */
   pageTitle?: string | undefined;
 
   /** Children */
   children?: Entry<{ [fieldId: string]: unknown }>[] | undefined;
+
+  /** Navigation */
+  navigation?: INavigation | undefined;
 }
 
 export interface IPage extends Entry<IPageFields> {
@@ -217,6 +253,7 @@ export type CONTENT_TYPE =
   | "blogPostSectionTextOnly"
   | "blogPostSectionWithImage"
   | "card"
+  | "navigation"
   | "page"
   | "seeMore";
 
@@ -226,6 +263,7 @@ export type IEntry =
   | IBlogPostSectionTextOnly
   | IBlogPostSectionWithImage
   | ICard
+  | INavigation
   | IPage
   | ISeeMore;
 

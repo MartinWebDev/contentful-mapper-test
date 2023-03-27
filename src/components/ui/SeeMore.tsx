@@ -20,7 +20,7 @@ export const SeeMore = ({ title, children }: ISeeMore) => {
       <div className={classNames(styles.title, { [styles.open]: expanded })}>
         <a href="#" onClick={handleClickExpand}>{title}</a>
       </div>
-      {expanded && <div>{children}</div>}
+      {expanded && <div className={styles.detail}>{children}</div>}
     </div>
   );
 };

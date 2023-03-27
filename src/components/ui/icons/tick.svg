@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons/Tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.50740257,11.5262502 L5.01783665,12 L-5.57331958e-13,7.14427125 L1.41845514,5.77164119 L5.01783665,9.25473988 L14.5815449,-2.66453526e-15 L16,1.37263006 L5.50740257,11.5262502 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Tick" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+        <g id="Icon" transform="translate(4.000000, 6.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

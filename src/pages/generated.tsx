@@ -4,7 +4,7 @@ import React from 'react';
 import * as contentful from '../api/contentful';
 
 const Generated = (props: any) => {
-  console.log("props", props);
+  console.log("Generated (Page)", props);
   return (
     <>
       <Head>

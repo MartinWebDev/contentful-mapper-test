@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons/Alert</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.0444444,19 L1.95555556,19 C1.24444444,19 0.622222222,18.6214197 0.266666667,17.9589041 C-0.0888888889,17.3200498 -0.0888888889,16.5392279 0.266666667,15.9003736 L8.31111111,1.04109589 C8.66666667,0.402241594 9.28888889,0 10,0 C10.7111111,0 11.3333333,0.378580324 11.6888889,1.04109589 L19.7333333,15.9003736 C20.0888889,16.5392279 20.0888889,17.3200498 19.7333333,17.9589041 C19.3777778,18.6214197 18.7555556,19 18.0444444,19 Z M17.9857585,16.986288 C18.0047472,16.9521695 18.0047472,16.9071082 17.9745348,16.8525435 L10.0000068,2.1223843 L2.01424155,16.8729897 C1.99664381,16.9046089 1.99535471,16.9456264 2.02205856,17 L17.9798894,17 C17.9807593,16.9965129 17.9826511,16.9920154 17.9857585,16.986288 Z M11,13 L9,13 L9,7 L11,7 L11,13 Z M9,14 L11,14 L11,16 L9,16 L9,14 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Alert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+        <g id="Icon" transform="translate(2.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons/User</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9,10 C6.23771525,10 4,7.76228475 4,5 C4,2.23771525 6.23771525,0 9,0 C11.7622847,0 14,2.23771525 14,5 C14,7.76228475 11.7622847,10 9,10 Z M9,8 C10.6577153,8 12,6.65771525 12,5 C12,3.34228475 10.6577153,2 9,2 C7.34228475,2 6,3.34228475 6,5 C6,6.65771525 7.34228475,8 9,8 Z M18,18 L16,18 L16,16 C16,14.5399072 12.1559994,13 9,13 C5.8440006,13 2,14.5399072 2,16 L2,18 L0,18 L0,16 C0,12.9352916 4.83098067,11 9,11 C13.1690193,11 18,12.9352916 18,16 L18,18 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+        <g id="Icon" transform="translate(3.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
